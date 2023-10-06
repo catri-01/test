@@ -19,5 +19,5 @@ def main():
 disk_usage = get_disk_usage()
 print(disk_usage)
 
-if __name__ == "__main__":
-    main
+# if __name__ == "__main__":
+#     main
