@@ -16,8 +16,10 @@ def main():
    print(f"Opérations de lecture sur le disque: {read_count} ")
    print(f"Opérations de lecture sur le disque: {write_count} ")
 
-disk_usage = get_disk_usage()
-print(disk_usage)
+# disk_usage = get_disk_usage()
+# print(disk_usage)
 
-# if __name__ == "__main__":
-#     main
+
+
+if __name__ == "__main__":
+    main()
